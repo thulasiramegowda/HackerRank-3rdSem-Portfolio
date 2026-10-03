@@ -9,7 +9,7 @@ This repository contains five mandatory HackerRank problems solved in C, along w
 ## HackerRank Profile
 
 🔗 **Let's connect on HackerRank:**  
-[My HackerRank Profile](PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE)
+[My HackerRank Profile](https://www.hackerrank.com/profile/thulasiramegowd1)
 
 ---
 
@@ -24,6 +24,22 @@ This repository contains five mandatory HackerRank problems solved in C, along w
 | 5 | Sparse Arrays | O(N + Q) | O(N) |
 
 ---
+## Accepted Submissions
+The repository includes screenshots of my accepted HackerRank submissions for all five mandatory problems.
+- Diagonal Difference
+- Dynamic Array
+- Time Conversion
+- Compare the Triplets
+- Sparse Arrays
+- 
+## What I Learned
+Through these problems, I practiced array manipulation, dynamic arrays, string processing, matrix traversal, comparisons, and efficient problem-solving.
+I also focused on understanding time and space complexity instead of only making the code pass the test cases.
+
+Let's Connect
+🔗 HackerRank: https://www.hackerrank.com/profile/thulasiramegowd1
+🔗 GitHub: https://github.com/thulasiramegowda
+Thanks for checking out my work!
 
 ## Repository Structure
 
@@ -62,18 +78,3 @@ HackerRank-3rdSem-Portfolio
 │
 ├── Progress.md
 └── README.md
-
-Accepted Submissions
-The repository includes screenshots of my accepted HackerRank submissions for all five mandatory problems.
-- Diagonal Difference
-- Dynamic Array
-- Time Conversion
-- Compare the Triplets
-- Sparse Arrays
-What I Learned
-Through these problems, I practiced array manipulation, dynamic arrays, string processing, matrix traversal, comparisons, and efficient problem-solving.
-I also focused on understanding time and space complexity instead of only making the code pass the test cases.
-Let's Connect
-🔗 HackerRank: https://www.hackerrank.com/profile/thulasiramegowd1
-🔗 GitHub: https://github.com/thulasiramegowda
-Thanks for checking out my work!
